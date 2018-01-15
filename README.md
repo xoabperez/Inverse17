@@ -1,10 +1,14 @@
 # Inverse17
 Computational and Variational Methods for Inverse Problems
+
 Fall 2017
+
 Professor: Omar Ghattas
+
 Instructor: Umberto Villa
 
 Description from the syllabus:
+
 This course provides an introduction to the numerical solution of inverse problems
 that are governed by systems of partial differential equations (PDEs). The focus of the course
 is on variational formulations, ill-posedness, regularization, variational discretization, and largescale
